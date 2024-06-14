@@ -33,4 +33,11 @@ In this project, I developed a responsive feedback form using HTML, CSS, and Jav
 - **Source Code**: [GitHub Repository Link](https://github.com/su-jin1425/CS-50-Final-Project)
 - **SMTPJS Documentation**: [SMTP.JS](https://smtpjs.com)
 
+### Description for CS 50 :
+- Name : Sujith S
+- **EDX User Name**: [sujith_1425]([https://github.com/su-jin1425/CS-50-Final-Project](https://profile.edx.org/u/sujith_1425?_gl=1*elzb0j*_gcl_au*MTQ4NDE1NTQzMS4xNzE1OTE5NzAw*_ga*MzYwMDc0Nzk1LjE3MTM5MjMwNTk.*_ga_D3KS4KMDT0*MTcxODM4MzE4MC4zLjEuMTcxODM4NDc2Ni42LjAuMA..)
+- **GitHub User Name**: [su-jin1425](https://github.com/su-jin1425)
+- City and Country : Vellore , Tamil Nadu , India
+- Date of Recording : 14/06/2024
+- 
 This project is part of my CS50 coursework, and it demonstrates my skills in web development and coding. I hope you find it useful and informative.
